@@ -21,7 +21,7 @@
 
 <template>
   <ul class="change-log-view">
-    <li class="version-change-log">
+    <!-- <li class="version-change-log">
       <div class="date">2019-06-08</div>
       <ul>
         <li class="log">1.计时页面新增静音功能🔇</li>
@@ -38,12 +38,12 @@
         <li class="log">2.加入了更新记录📝</li>
         <li class="log">3.一系列体验优化🚀</li>
       </ul>
-    </li>
+    </li> -->
     <li class="version-change-log">
-      <div class="date">2019-06-01</div>
+      <div class="date">2020-09-17</div>
       <ul>
         <li class="log">1.小程序发布🎉</li>
-        <li class="log">2.儿童节快乐🎈</li>
+        <li class="log">2.计时页面新增静音功能🔇</li>
       </ul>
     </li>
   </ul>

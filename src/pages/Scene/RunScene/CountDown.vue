@@ -23,7 +23,6 @@
   }
   .time-ct {
     transition: all 0.5s;
-    font-family: BebasNeue-Regular;
     font-weight: lighter;
     .work-time,
     .rest-time,
